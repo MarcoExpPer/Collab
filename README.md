@@ -1,2 +1,2 @@
 # Collab
-Code of collaboration
+Code of my collaboration
