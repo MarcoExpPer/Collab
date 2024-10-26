@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a692a4cc7574dd68216f60d3acac76a, type: 3}
+  m_Name: PlayerSwordData
+  m_EditorClassIdentifier: 
+  UIData: {fileID: 11400000, guid: ba517e0796f873643b7acc3fd66c671f, type: 2}
+  MaxAmmo: -1
+  AmmoCount: -1
+  swordEffects:
+  - {fileID: 11400000, guid: 34fe700d989351b4dbb8ea6de91ca46e, type: 2}
+  - {fileID: 11400000, guid: 851bda83f571c78479441b31819b8dd7, type: 2}
+  damage: 10
+  SwordPrefab: {fileID: 8145382361867446369, guid: ad0275796e137e0409ebace45d65ccc0,
+    type: 3}

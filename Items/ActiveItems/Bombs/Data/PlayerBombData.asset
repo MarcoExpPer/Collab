@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30c2745681ce4842956bb8c4b1bd68c4, type: 3}
+  m_Name: PlayerBombData
+  m_EditorClassIdentifier: 
+  UIData: {fileID: 11400000, guid: 0738f6ae4ca5a3a4096e57a926678a41, type: 2}
+  MaxAmmo: 20
+  AmmoCount: 5
+  explosionEffects:
+  - {fileID: 11400000, guid: 3e49a2f35ef468f4d9a6e4111551693a, type: 2}
+  bombaPrefab: {fileID: 4690074557511642715, guid: 4d0f9f05337e7854ab3ce2478c7de4fe,
+    type: 3}
+  distanciaSpawn: 1
+  hitEffectsSo: []
+  throwCooldown: 2
